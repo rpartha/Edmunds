@@ -1,0 +1,48 @@
+--- Vehicle Report ---   Date: 02/24/2021
+2016
+	nissan altima        MSRP: $24440.00 List Price: $26150.80
+	subaru brz           MSRP: $25395.00 List Price: $27172.65
+	subaru brz           MSRP: $25395.00 List Price: $27172.65
+invalid
+	subaru outback       MSRP: invalid   List Price: invalid
+	volkswagon golf R    MSRP: invalid   List Price: invalid
+2017
+	chevrolet impala     MSRP: $33000.00 List Price: $35310.00
+	dodge challenger     MSRP: $34500.00 List Price: $36915.00
+	ford focus           MSRP: $27500.00 List Price: $29425.00
+	honda accord         MSRP: $28000.00 List Price: $29960.00
+	nissan altima        MSRP: $30000.00 List Price: $32100.00
+2018
+	acura mdx            MSRP: $45000.00 List Price: $48150.00
+	chrystler pacifica   MSRP: $40000.00 List Price: $42800.00
+	jeep wrangler        MSRP: $55000.00 List Price: $58850.00
+2019
+	chevrolet avalanche  MSRP: $60000.00 List Price: $64200.00
+	infiniti g35         MSRP: $50000.00 List Price: $53500.00
+	mazda miata          MSRP: $34995.00 List Price: $37444.65
+	mazda 3              MSRP: $23700.00 List Price: $25359.00
+2020
+	honda civic          MSRP: $21220.00 List Price: $22705.40
+	tesla model3         MSRP: $35000.00 List Price: $37450.00
+2021
+	hyundai sonata       MSRP: $23700.00 List Price: $25359.00
+	hyundai elantra      MSRP: $16550.00 List Price: $17708.50
+	kia stinger          MSRP: $33090.00 List Price: $35406.30
+	tesla models         MSRP: $75000.00 List Price: $80250.00
+2012
+	alfa romeo gulia     MSRP: $24200.00 List Price: $25894.00
+	honda civic          MSRP: $30000.00 List Price: $32100.00
+	infiniti g35         MSRP: $50000.00 List Price: $53500.00
+2013
+	honda civic          MSRP: $17580.00 List Price: $18810.60
+	mazda 6              MSRP: $20000.00 List Price: $21400.00
+	toyota prius         MSRP: $24200.00 List Price: $25894.00
+2014
+	honda civic          MSRP: $18390.00 List Price: $19677.30
+	toyota camry         MSRP: $25500.00 List Price: $27285.00
+2015
+	honda accord         MSRP: $22895.00 List Price: $24497.65
+	lexus rx350          MSRP: $41895.00 List Price: $44827.65
+--- Grand Total ---
+	MSRP: $1016143.00  
+	List Price: $1087273.01
