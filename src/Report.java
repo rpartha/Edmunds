@@ -189,10 +189,13 @@ public class Report {
         }
 
         System.out.println("Enter Tax Rate: ");
-        BigDecimal taxRate = new BigDecimal("1.07");
-        if(!scanner.nextLine().isEmpty()){
-            taxRate = new BigDecimal(scanner.nextLine());
+        String rate = scanner.nextLine();
+        if(rate.isEmpty()){
+            rate = "1.07";
         }
+        BigDecimal taxRate = new BigDecimal(rate);
+
+        scanner.close();
 
         Report r = new Report(dataFile, taxRate);
 
